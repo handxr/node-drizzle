@@ -1,0 +1,5 @@
+{"level":"info","message":"Server listening on port 3000","service":"user-service"}
+{"level":"warn","message":"Server listening on port 3000","service":"user-service"}
+{"level":"error","message":"Server listening on port 3000","service":"user-service"}
+{"level":"error","message":"Server listening on port 3000","service":"user-service"}
+{"level":"error","message":"Server listening on port 3000","service":"user-service"}
